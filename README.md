@@ -1,22 +1,25 @@
-# Cybersecurity 101
+# Pero's Academy Course Catalog
 
-## Course Description
+Welcome to the official course catalog for Pero's Academy, your gateway to exploring a diverse range of courses designed to empower and educate. Our mission is to provide high-quality, accessible education to learners around the globe.
 
-Dive into the fundamentals of cybersecurity with this introductory course designed for beginners. Explore key concepts, tools, and best practices that form the foundation of information security.
+## How to Use This Catalog
 
-## Prerequisites
+This catalog is organized by subject areas, making it easy to find courses that match your interests or educational goals. Each course is detailed in its own directory, containing information about the curriculum, assignments, resources, and how to enroll.
 
-No prior experience in cybersecurity is required, but familiarity with basic computer and internet usage is recommended.
+## Course Index
 
-## Learning Objectives
+- [Cybersecurity 101](/Cybersecurity-101)
+- [Data Science Fundamentals](/Data-Science-Fundamentals)
+- [Full-Stack Web Development](/Full-Stack-Web-Development)
+- [Cloud Computing Essentials](/Cloud-Computing-Essentials)
 
-By the end of this course, you'll be able to:
-- Understand the basic principles of cybersecurity.
-- Identify common cybersecurity threats and vulnerabilities.
-- Implement basic security measures to protect information and systems.
+(Continue adding courses as needed.)
 
-## Instructors
+## Contributing to the Catalog
 
-- **Jane Doe**: Security Analyst with over 10 years of experience in information security.
-- **John Smith**: Cybersecurity consultant specializing in risk management and incident response.
+We welcome contributions from students, instructors, and the community. If you have suggestions for improving existing courses or adding new ones, please see our [contribution guidelines](CONTRIBUTION.md).
+
+## Stay Connected
+
+For updates, discussions, and support, join our community forum or follow us on social media. (Add links)
 
