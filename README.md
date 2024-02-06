@@ -1,25 +1,15 @@
 # Pero's Academy Course Catalog
 
-Welcome to the official course catalog for Pero's Academy, your gateway to exploring a diverse range of courses designed to empower and educate. Our mission is to provide high-quality, accessible education to learners around the globe.
+## Course Offerings
 
-## How to Use This Catalog
+Below is a table-indexed catalog of our courses, including details about each course's content, duration, price, delivery method, target audience, and accreditation.
 
-This catalog is organized by subject areas, making it easy to find courses that match your interests or educational goals. Each course is detailed in its own directory, containing information about the curriculum, assignments, resources, and how to enroll.
-
-## Course Index
-
-- [Cybersecurity 101](/Cybersecurity-101)
-- [Data Science Fundamentals](/Data-Science-Fundamentals)
-- [Full-Stack Web Development](/Full-Stack-Web-Development)
-- [Cloud Computing Essentials](/Cloud-Computing-Essentials)
+| Course Title                 | Topics                                  | Duration   | Price      | Delivery Method    | Target Audience           | Accreditation   |
+|------------------------------|-----------------------------------------|------------|------------|--------------------|---------------------------|-----------------|
+| Cybersecurity 101            | Basics, Threats, Protections            | 4 weeks    | $200       | Online, Self-paced | Beginners in cybersecurity| Certificate     |
+| Data Science Fundamentals    | Data Analysis, ML Basics                | 6 weeks    | $300       | Online, Live       | Aspiring Data Scientists  | Certificate     |
+| Full-Stack Web Development   | HTML, CSS, JS, Backend                  | 8 weeks    | $500       | Hybrid             | Future Web Developers     | Certificate     |
+| Cloud Computing Essentials   | Cloud Models, Services, Security        | 5 weeks    | $250       | Online, Self-paced | IT Professionals          | Certificate     |
 
 (Continue adding courses as needed.)
-
-## Contributing to the Catalog
-
-We welcome contributions from students, instructors, and the community. If you have suggestions for improving existing courses or adding new ones, please see our [contribution guidelines](CONTRIBUTION.md).
-
-## Stay Connected
-
-For updates, discussions, and support, join our community forum or follow us on social media. (Add links)
 
