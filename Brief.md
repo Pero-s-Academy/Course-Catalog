@@ -1,4 +1,4 @@
-# Course-Catalog Repository Enhancement Task
+# Course-Catalog Repository Task
 
 ## Objective
 Refine and organize the `Course-Catalog` repository at Pero's Academy, making it a comprehensive hub for educational materials across various domains such as Operating Systems, Programming Languages, Technology, and Vendor-specific courses.
