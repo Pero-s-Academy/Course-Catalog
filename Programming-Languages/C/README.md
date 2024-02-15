@@ -39,8 +39,8 @@ Standardization efforts led to the ANSI C standard in 1989, ensuring consistency
 - **Scientific and Numerical Computing:** C's efficiency in handling complex calculations and simulations makes it suitable for scientific computing and numerical analysis.
 
 ## Hello World Example in C:
-
-#include <stdio.h>
+```cpp
+include <stdio.h>
 
 int main() {
     printf("Hello, World!\n");
