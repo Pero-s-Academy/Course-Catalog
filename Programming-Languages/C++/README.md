@@ -1,4 +1,4 @@
-#History of the C++ Programming Language 📜
+# History of the C++ Programming Language 📜
 
 The C++ programming language evolved from C and was developed by Bjarne Stroustrup in the early 1980s. It was designed to enhance the capabilities of C by adding support for object-oriented programming (OOP) principles, such as classes, inheritance, and polymorphism.
 
@@ -6,7 +6,7 @@ C++ gained popularity for its ability to combine the efficiency and portability 
 
 Standardization efforts led to the ANSI/ISO C++ standards, with the first standard (C++98) published in 1998. Subsequent revisions, such as C++11, C++14, C++17, and C++20, introduced new features and improvements, ensuring consistency and compatibility across different platforms.
 
-#Key Features: 🔑
+## Key Features: 🔑
 
 - **Object-Oriented Programming (OOP):** C++ supports OOP principles, allowing developers to organize code into classes and objects for better modularity and reusability.
 
@@ -20,7 +20,7 @@ Standardization efforts led to the ANSI/ISO C++ standards, with the first standa
 
 - **Multiple Inheritance:** Unlike C, C++ supports multiple inheritance, allowing a class to inherit from multiple base classes.
 
-#Application Areas: 🌐
+## Application Areas: 🌐
 
 - **Software Development:** C++ is widely used for developing software applications across various domains, including system software, desktop applications, games, and mobile apps.
 
@@ -32,7 +32,7 @@ Standardization efforts led to the ANSI/ISO C++ standards, with the first standa
 
 - **Financial Applications:** C++ is used in financial applications for its performance, efficiency, and support for complex mathematical calculations and simulations.
 
-Hello World Example in C++:
+## Hello World Example in C++:
 
 ```cpp
 include <iostream>
